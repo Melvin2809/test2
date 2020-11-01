@@ -56,4 +56,6 @@ public class Box implements Cloneable{
     }*/
 }
 
-print 
+print
+
+tostring
